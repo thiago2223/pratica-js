@@ -1,0 +1,2 @@
+//Crie um parágrafo no HTML com um id="mensagem". No JS, use document.querySelector('#mensagem') para capturar esse elemento e mudar seu texto com .innerHTML.
+document.querySelector('#mensagem').innerHTML = '32948239';
